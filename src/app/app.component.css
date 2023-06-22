@@ -1,0 +1,38 @@
+button {
+  cursor: pointer;
+}
+
+.config-buttons {
+  position: absolute;
+  right: 0;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  display: grid;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.margin-bottom-8 {
+  margin-bottom: 8px;
+}
+
+.cards {
+  display: flex;
+  margin-top: 20px;
+}
+
+.config-card {
+  cursor: pointer;
+  margin-left: 20px;
+  border-radius: 5px;
+  height: 400px;
+  box-shadow: 2px 2px #dadada;
+}
+
+.padding-top {
+  padding-top: 155px;
+  padding-left: 10px;
+}
